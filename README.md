@@ -30,14 +30,16 @@ This app uses [_**MVVM (Model View View-Model)**_](https://developer.android.com
 <h3>Screenshots</h3>
 
 <div class="row">
-      <img src="https://user-images.githubusercontent.com/84586226/178134156-bf677c26-5c69-46d7-8a48-71531d4a9251.png" width="250">
-      <img src="https://user-images.githubusercontent.com/84586226/178134154-e79cc648-eb8d-414a-8362-110ee400c49a.png" width="250">
-      <img src="https://user-images.githubusercontent.com/84586226/178134151-3bcb8ff3-d01e-4c42-94d2-b43bb0d4ddaf.png" width="250">
+      <img src="https://user-images.githubusercontent.com/84586226/178134156-bf677c26-5c69-46d7-8a48-71531d4a9251.png" width="250" hspace="20">
+      <img src="https://user-images.githubusercontent.com/84586226/178134154-e79cc648-eb8d-414a-8362-110ee400c49a.png" width="250" hspace="20">
+</div>
+<div class="row">
+      <img src="https://user-images.githubusercontent.com/84586226/178134157-e691e8da-715f-4748-af48-2d86166c0211.png" width="250" hspace="20">
+      <img src="https://user-images.githubusercontent.com/84586226/178134151-3bcb8ff3-d01e-4c42-94d2-b43bb0d4ddaf.png" width="250" hspace="20">
 </div>
 
 <div class="row">
-      <img src="https://user-images.githubusercontent.com/84586226/178134157-e691e8da-715f-4748-af48-2d86166c0211.png" width="250">
-      <img src="https://user-images.githubusercontent.com/84586226/178134159-2ea6007c-fe40-4fb8-813a-a8c22d5b95e4.png" width="250">
-      <img src="https://user-images.githubusercontent.com/84586226/178134158-24695ae0-915d-4b02-be3a-4af04bd827c3.png" width="250">     
+      <img src="https://user-images.githubusercontent.com/84586226/178134159-2ea6007c-fe40-4fb8-813a-a8c22d5b95e4.png" width="250" hspace="20">
+      <img src="https://user-images.githubusercontent.com/84586226/178134158-24695ae0-915d-4b02-be3a-4af04bd827c3.png" width="250" hspace="20">     
 </div>
 
